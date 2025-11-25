@@ -1,0 +1,33 @@
+{
+  "name": "react",
+  "version": "1.0.0",
+  "description": "this is react from vinayak",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Vinayakjava21/react-21.git"
+  },
+  "keywords": [
+    "react",
+    "from",
+    "vinayak"
+  ],
+  "author": "Vinayak Athreya B R",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Vinayakjava21/react-21/issues"
+  },
+  "homepage": "https://github.com/Vinayakjava21/react-21#readme",
+  "devDependencies": {
+    "parcel": "^2.16.1"
+  },
+  "dependencies": {
+    "react": "^19.2.0",
+    "react-dom": "^19.2.0"
+  },
+  "browserslist":[
+    "last 21 versions"
+  ]
+}
