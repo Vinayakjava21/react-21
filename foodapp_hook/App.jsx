@@ -7,7 +7,7 @@ import Body from "./src/components/Body";
 
 
 
-
+// App component
 
 const AppComponent =() =>{
   return (
